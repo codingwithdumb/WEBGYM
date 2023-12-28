@@ -14,6 +14,7 @@ const Login = () => {
          <input type='text' placeholder='Enter The Full name'/><br/>
          <label className='mt-2'>Confirm Passwaord :</label>
          <input type='text' placeholder='Enter The Full name'/><br/>
+         <sumbit></sumbit>
         </form>
       </div>
     </div>
