@@ -627,16 +627,20 @@ text-align: center;
 
 /* form log in css styling  */
 .log-form{
-    background-color:#0a81f0;
-    width: 500px;
-    justify-content: center;
+background-color:#0a81f0;
+width: 500px;
+justify-content: center;
 align-items: center;
 text-align: center;
+position: relative;
 }
 .section-form-data{
 justify-content: center;
 align-items: center;
 display: flex;
-top: 0%;
 text-align: center;
+
+}
+.farm-log{
+    margin: 20px;
 }
