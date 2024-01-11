@@ -26,7 +26,8 @@ const Minute20 = () => {
   <img src={Abs20min} className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Abs</h5>
-    <p className="card-text">They provide back and torso stability and they allow the safe and effective movement of the upper and lower body. </p>
+    <p className="card-text">
+    "Six-pack abs" refers to a highly defined set of abdominal muscles that create a visibly toned and sculpted midsection. This term is used to describe a specific aesthetic appearance of the abdominal muscles when they are prominent. </p>
     <a href="#" className="btn btn-primary">Go somewhere</a>
   </div>
 </div>
@@ -36,7 +37,8 @@ const Minute20 = () => {
   <img src={bicep20min} className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Biceps</h5>
-    <p className="card-text">This exercise targets the biceps and can increase serious strength and size to the entire muscle when done correctly. </p>
+    <p className="card-text">
+    The biceps brachii, commonly known as the biceps, is a prominent muscle located in the upper arm. It is a two-headed muscle, consisting of a long head and a short head. </p>
     <a href="#" className="btn btn-primary">Go somewhere</a>
   </div>
 </div>
@@ -45,8 +47,8 @@ const Minute20 = () => {
             <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={carbs20min} className="card-img-top" alt="..." />
   <div className="card-body">
-    <h5 className="card-title">Carbs</h5>
-    <p className="card-text">Carbs are essential for replenishing glycogen (a form of carbohydrate stored in your muscles) after exercise.</p>
+    <h5 className="card-title">Calf</h5>
+    <p className="card-text">The calf muscles are located on the back of the lower leg and consist primarily of two muscles: the gastrocnemius and the soleus. These muscles play a crucial role in various movements, including walking, running, and jumping.</p>
     <a href="#" className="btn btn-primary">Go somewhere</a>
   </div>
 </div>
@@ -58,7 +60,8 @@ const Minute20 = () => {
   <img src={back20min} className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Back</h5>
-    <p className="card-text">The deadlift remains the king of all back exercises, as the movement incorporates lat and core stabilization along with engaging your entire posterior chain.</p>
+    <p className="card-text">
+    The human back is a complex structure composed of bones, muscles, ligaments, and tendons that provide support, stability to the upper body.</p>
     <a href="#" className="btn btn-primary">Go somewhere</a>
   </div>
 </div>
@@ -68,7 +71,8 @@ const Minute20 = () => {
   <img src={chest20min} className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Chest</h5>
-    <p className="card-text">The chest. In the human body, the region of the thorax between the neck and diaphragm in the front of the body is called the chest.</p>
+    <p className="card-text">
+    The chest refers to the front part of the upper body between the neck and the abdomen. Most notably the pectoralis major and pectoralis minor, which play significant roles in upper body movements and stability.</p>
     <a href="#" className="btn btn-primary">Go somewhere</a>
   </div>
 </div>
@@ -78,7 +82,8 @@ const Minute20 = () => {
   <img src={shoulder20min} className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Shoulder</h5>
-    <p className="card-text">Standing, hold dumbbells with your palms facing each other. Bend your torso forward, forming a 45-degree angle with the floor. </p>
+    <p className="card-text">
+    The shoulder is a complex and highly mobile joint that connects the upper arm bone (humerus), the collarbone (clavicle), and the shoulder blade (scapula). It consists of several key components, including bones, muscles, tendons, and ligaments. </p>
     <a href="#" className="btn btn-primary">Go somewhere</a>
   </div>
 </div>
@@ -90,7 +95,8 @@ const Minute20 = () => {
   <img src={tricep20min} className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Tricep</h5>
-    <p className="card-text">Extend your arms straight overhead, bend them at the elbows, and lower the dumbbells behind your head. (If this is too difficult with a weight in each hand, just hold one weight between both hands.) </p>
+    <p className="card-text">
+    The triceps brachii, commonly known as the triceps, is a large muscle located at the back of the upper arm. It is made up of three heads, hence the name "triceps". </p>
     <a href="#" className="btn btn-primary">Go somewhere</a>
   </div>
 </div>
@@ -99,8 +105,9 @@ const Minute20 = () => {
             <div className="card fixHeightmin" style={{width: '18rem'}}>
   <img src={forarm20min} className="card-img-top" alt="..." />
   <div className="card-body">
-    <h5 className="card-title">Formarm</h5>
-    <p className="card-text">These forearm exercises improve grip strength and make it easier to lift, carry and hold things. </p>
+    <h5 className="card-title">Forearm</h5>
+    <p className="card-text">
+    The forearm is the region of the upper limb between the elbow and the wrist. It comprises various muscles, bones, tendons, and nerves that enable movement and control in the hand and wrist. </p>
     <a href="#" className="btn btn-primary">Go somewhere</a>
   </div>
 </div>
@@ -111,7 +118,8 @@ const Minute20 = () => {
   <div className="card-body">
     <h5 className="card-title">Legs</h5>
     <p className="card-text">
-Exercising the legs makes you speedier on the track and speeds up your metabolism. To summarize, the leg exercises benefits are: Maintains good body symmetry. </p>
+
+    The legs are an essential part of the human body's lower extremities, comprising various muscles, bones, tendons, and ligaments that support movement, stability, and weight-bearing functions. </p>
     <a href="#" className="btn btn-primary">Go somewhere</a>
   </div>
 </div>

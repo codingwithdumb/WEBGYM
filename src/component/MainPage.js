@@ -24,8 +24,9 @@ const MainPage = () => {
     </div>
     <div className="weloce-to-div mt-5">
         <h2>WELCOME TO FIT & SEXY</h2>
-        <p className='mt-3'>Hello world, we are Building & Training Center</p>
-        <p>The pain you feel today will be the strength you feel tomorrow. <br />Your body can stand almost anything. It's your mind you have to convince. <br />Results happen over time, not overnight. Work hard, stay consistent, and be patient.</p>
+        <p className='mt-3'>Hello world, we are Building Training Center</p>
+        <p>
+        "Welcome to fit and sexy" <br />can be interpreted as an invitation or a greeting related to achieving fitness and<br /> a desirable physical appearance. It suggests a focus on improving one's health, fitness level, and overall attractiveness.</p>
     </div>
     <hr />
     <div className="container">

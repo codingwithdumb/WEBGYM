@@ -15,7 +15,8 @@ const Whychoose = () => {
   <img src={SelfDefeImg} class="card-img-top" alt="..."/>
   <div class="card-body">
     <h5 class="card-title">Self Defence</h5>
-    <p class="card-text">A man who is attacked or believes that he is about to be attacked may use such force as is both necessary and reasonable in order to defend himself.</p>
+    <p class="card-text">
+    Self-defense refers to techniques, strategies, and skills employed to protect oneself from physical harm or danger. It involves a range of practices aimed at preventing, avoiding, or neutralizing threats posed by attackers or potential assailants.</p>
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
@@ -25,7 +26,7 @@ const Whychoose = () => {
   <img src={ProgressImg}class="card-img-top" alt="..."/>
   <div class="card-body">
     <h5 class="card-title">Progression</h5>
-    <p class="card-text">Progression is the series and sequences of mathematics algebra that are related to numbers and algebraic operations. </p>
+    <p class="card-text">Progression refers to the act or process of advancing, improving. It can be applied across different areas, including education, career, fitness.  Progression often involves gradual growth, development, or evolution towards a specific goal or betterment. </p>
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
@@ -35,7 +36,8 @@ const Whychoose = () => {
   <img src={WorkoutImg} class="card-img-top" alt="..."/>
   <div class="card-body">
     <h5 class="card-title">Workout</h5>
-    <p class="card-text"> Training of the body to improve health and fitness. Different types have different purposes, including aerobics for heart and respiratory function </p>
+    <p class="card-text"> 
+    A workout typically refers to a physical exercise or training session designed to improve fitness, strength, endurance, flexibility. Workouts can be tailored to various fitness goals, such as weight loss, muscle building, cardiovascular fitness.</p>
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
@@ -45,7 +47,8 @@ const Whychoose = () => {
   <img src={NutritionImg} class="card-img-top" alt="..."/>
   <div class="card-body">
     <h5 class="card-title">Nutrition</h5>
-    <p class="card-text">Nutrition is the process of consuming, absorbing, and using nutrients needed by the body for growth, development, and maintenance of life. </p>
+    <p class="card-text">
+    Nutrition refers to the process by which the body utilizes food to sustain life, grow, repair tissues, and maintain overall health. It involves the intake of nutrients through food, which are essential for proper functioning and well-being. </p>
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
