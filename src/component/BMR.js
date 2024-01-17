@@ -1,5 +1,6 @@
 import {React,useState} from 'react'
-import Nav from '../common/Nav'
+import Nav from '../common/Nav';
+import BmrBack1 from '../img/BMR FINDER BACKGROUND IMG.jpg'
 
 const BMR = () => {
 

@@ -5,6 +5,7 @@ import '../common/Common.css';
 import Footer from '../common/Footer';
 // import BMI from '../component/BMI'
 import ToolImg1 from '../img/ToolsImg1.jpg'
+import BmrBack1 from '../img/BMR FINDER BACKGROUND IMG.jpg' 
 import ImgBmi from '../img/BMI.jpg'
 import ImgBmr from '../img/BMR.jpg'
 import ImgCalorie from '../img/CALORIE.jpg'
@@ -14,7 +15,29 @@ const Tools = () => {
     <div style={{overflowX:"hidden"}}>
     <Nav/>
     <div className="poster-tools">
-        <img src={ToolImg1} alt="" />
+        {/* <img src={ToolImg1} alt="" /> */}
+       <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel">
+  <div className="carousel-inner">
+    <div className="carousel-item active">
+      <img src="ToolImg1" className="d-block w-100" alt="BMI FINDER" />
+    </div>
+    <div className="carousel-item">
+      <img src="ToolImg1" className="d-block w-100" alt="BMR FINDER" />
+    </div>
+    <div className="carousel-item">
+      <img src="ToolImg1" className="d-block w-100" alt="CALORIES FINDER" />
+    </div>
+  </div>
+  <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+    <span className="carousel-control-prev-icon" aria-hidden="true" />
+    <span className="visually-hidden">Previous</span>
+  </button>
+  <button className="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+    <span className="carousel-control-next-icon" aria-hidden="true" />
+    <span className="visually-hidden">Next</span>
+  </button>
+</div>
+
       </div>
       <div className="container mt-5">
       <div className="row">
